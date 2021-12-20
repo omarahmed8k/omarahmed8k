@@ -1,4 +1,8 @@
+<div align="center">
 <img align="right" width="50%" alt="Github" src="https://github-readme-stats.vercel.app/api?username=omarahmed8k&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true" />
+</div>
+
+---
 
 <br> 
 
@@ -14,3 +18,5 @@
 <a href="https://t.me/omarahmed8k"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 </div>
+
+---
