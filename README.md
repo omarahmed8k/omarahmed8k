@@ -1,11 +1,5 @@
-<div align="center">
+<div align="center" style="margin-bottom:30px;">
 <img align="right" width="100%" alt="Github" src="https://github-readme-stats.vercel.app/api?username=omarahmed8k&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true" />
-  
-  
-<br>
-<hr>
-<br>
-  
 </div>
 
 
