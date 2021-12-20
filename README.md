@@ -1,16 +1,16 @@
-### Hi there 👋
+<img align="right" width="50%" alt="Github" src="https://github-readme-stats.vercel.app/api?username=omarahmed8k&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true" />
 
-<!--
-**omarahmed8k/omarahmed8k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br> 
 
-Here are some ideas to get you started:
+## 🙋‍♂️ Connect with me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<div align="center">
+<a href="mailto:omarahmed8k@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/omarahmed8k/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/omarahmed8k"><img alt="Twitter" src="https://img.shields.io/badge/omarahmed8k-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+</a>
+<a href="https://t.me/omarahmed8k"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+</div>
