@@ -1,5 +1,9 @@
 # Connect with me
 
+<p>
+Highly skilled and motivated Frontend Software Engineer and UI/UX Designer with experience in React.js and a variety of other technologies such as HTML, CSS, JavaScript, and Node.js. Proven track record of designing and developing technical solutions. Strong team player and ability to work independently. Holds a BSc in Mathematics and Computer Science from the University of Alexandria and completed several personal projects. Passion for programming and eagerness to learn new technologies. Experience in Agile methodologies, Git, Linux, and web design tools such as Adobe XD, Figma, and Illustrator. Actively involved in volunteering and am a member of various organizations such as Enactus Alexandria and the Developer Student Club.
+</p>
+
 <br>
 
 <div align="center">
